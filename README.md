@@ -47,3 +47,5 @@ The most important features for predicting default were:
 3.  `cb_person_cred_hist_length` (Credit History Length)
 4.  `loan_amnt` (Loan Amount)
 5.  `person_age` (Age)
+
+FOLLOW THIS LINK FOR A MORE CONSICE VIEW https://nbviewer.org/github/shravaniVis/ml-credit-scoring-model/blob/main/Untitled0.ipynb
